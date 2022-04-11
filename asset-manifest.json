@@ -1,15 +1,15 @@
 {
-  "main.css": "/movielist/static/css/main.eb96ca5c.chunk.css",
-  "main.js": "/movielist/static/js/main.a1422d87.chunk.js",
-  "main.js.map": "/movielist/static/js/main.a1422d87.chunk.js.map",
-  "static/js/1.935b0251.chunk.js": "/movielist/static/js/1.935b0251.chunk.js",
-  "static/js/1.935b0251.chunk.js.map": "/movielist/static/js/1.935b0251.chunk.js.map",
-  "static/js/2.98630b08.chunk.js": "/movielist/static/js/2.98630b08.chunk.js",
-  "static/js/2.98630b08.chunk.js.map": "/movielist/static/js/2.98630b08.chunk.js.map",
-  "runtime~main.js": "/movielist/static/js/runtime~main.91a1ece0.js",
-  "runtime~main.js.map": "/movielist/static/js/runtime~main.91a1ece0.js.map",
-  "static/css/main.eb96ca5c.chunk.css.map": "/movielist/static/css/main.eb96ca5c.chunk.css.map",
-  "index.html": "/movielist/index.html",
-  "precache-manifest.41c429047f6a7b3088a167e0a4bb4761.js": "/movielist/precache-manifest.41c429047f6a7b3088a167e0a4bb4761.js",
-  "service-worker.js": "/movielist/service-worker.js"
+  "main.css": "/newtonschool_reactproject/static/css/main.eb96ca5c.chunk.css",
+  "main.js": "/newtonschool_reactproject/static/js/main.a1422d87.chunk.js",
+  "main.js.map": "/newtonschool_reactproject/static/js/main.a1422d87.chunk.js.map",
+  "static/js/1.935b0251.chunk.js": "/newtonschool_reactproject/static/js/1.935b0251.chunk.js",
+  "static/js/1.935b0251.chunk.js.map": "/newtonschool_reactproject/static/js/1.935b0251.chunk.js.map",
+  "static/js/2.98630b08.chunk.js": "/newtonschool_reactproject/static/js/2.98630b08.chunk.js",
+  "static/js/2.98630b08.chunk.js.map": "/newtonschool_reactproject/static/js/2.98630b08.chunk.js.map",
+  "runtime~main.js": "/newtonschool_reactproject/static/js/runtime~main.fc88cdea.js",
+  "runtime~main.js.map": "/newtonschool_reactproject/static/js/runtime~main.fc88cdea.js.map",
+  "static/css/main.eb96ca5c.chunk.css.map": "/newtonschool_reactproject/static/css/main.eb96ca5c.chunk.css.map",
+  "index.html": "/newtonschool_reactproject/index.html",
+  "precache-manifest.5181851834b99c5e0e92ac7be8d4d5ef.js": "/newtonschool_reactproject/precache-manifest.5181851834b99c5e0e92ac7be8d4d5ef.js",
+  "service-worker.js": "/newtonschool_reactproject/service-worker.js"
 }

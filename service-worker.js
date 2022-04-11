@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/movielist/precache-manifest.41c429047f6a7b3088a167e0a4bb4761.js"
+  "/newtonschool_reactproject/precache-manifest.5181851834b99c5e0e92ac7be8d4d5ef.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/movielist/index.html", {
+workbox.routing.registerNavigationRoute("/newtonschool_reactproject/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
