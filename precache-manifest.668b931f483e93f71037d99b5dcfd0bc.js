@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a876980f5dc8be4353d6",
+    "revision": "b01b0e104c8d7ef5c440",
     "url": "/newtonschool_reactproject/static/css/main.eb96ca5c.chunk.css"
   },
   {
-    "revision": "a876980f5dc8be4353d6",
-    "url": "/newtonschool_reactproject/static/js/main.a876980f.chunk.js"
+    "revision": "b01b0e104c8d7ef5c440",
+    "url": "/newtonschool_reactproject/static/js/main.b01b0e10.chunk.js"
   },
   {
     "revision": "935b0251a626769e024b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/newtonschool_reactproject/static/js/runtime~main.fc88cdea.js"
   },
   {
-    "revision": "2727254a6ca1db2612b5a9ab792410a4",
+    "revision": "41d405099f4b6e734aa68bf32b3c5734",
     "url": "/newtonschool_reactproject/index.html"
   }
 ];

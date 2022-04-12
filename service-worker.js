@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/newtonschool_reactproject/precache-manifest.5dca0e754cdf4d9c65ae8ad7cd147234.js"
+  "/newtonschool_reactproject/precache-manifest.668b931f483e93f71037d99b5dcfd0bc.js"
 );
 
 workbox.clientsClaim();

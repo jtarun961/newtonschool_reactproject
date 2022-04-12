@@ -1,7 +1,7 @@
 {
   "main.css": "/newtonschool_reactproject/static/css/main.eb96ca5c.chunk.css",
-  "main.js": "/newtonschool_reactproject/static/js/main.a876980f.chunk.js",
-  "main.js.map": "/newtonschool_reactproject/static/js/main.a876980f.chunk.js.map",
+  "main.js": "/newtonschool_reactproject/static/js/main.b01b0e10.chunk.js",
+  "main.js.map": "/newtonschool_reactproject/static/js/main.b01b0e10.chunk.js.map",
   "static/js/1.935b0251.chunk.js": "/newtonschool_reactproject/static/js/1.935b0251.chunk.js",
   "static/js/1.935b0251.chunk.js.map": "/newtonschool_reactproject/static/js/1.935b0251.chunk.js.map",
   "static/js/2.98630b08.chunk.js": "/newtonschool_reactproject/static/js/2.98630b08.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/newtonschool_reactproject/static/js/runtime~main.fc88cdea.js.map",
   "static/css/main.eb96ca5c.chunk.css.map": "/newtonschool_reactproject/static/css/main.eb96ca5c.chunk.css.map",
   "index.html": "/newtonschool_reactproject/index.html",
-  "precache-manifest.5dca0e754cdf4d9c65ae8ad7cd147234.js": "/newtonschool_reactproject/precache-manifest.5dca0e754cdf4d9c65ae8ad7cd147234.js",
+  "precache-manifest.668b931f483e93f71037d99b5dcfd0bc.js": "/newtonschool_reactproject/precache-manifest.668b931f483e93f71037d99b5dcfd0bc.js",
   "service-worker.js": "/newtonschool_reactproject/service-worker.js"
 }
