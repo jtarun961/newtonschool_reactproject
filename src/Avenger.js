@@ -1,5 +1,5 @@
-import './index.css';
 import React from 'react';
+import './index.css';
 function Avenger(){
     return(
         <div className='logo'>
